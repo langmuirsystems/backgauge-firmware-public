@@ -1,0 +1,1 @@
+1.1.1: Adopt semantic versioning for BACK GAUGE firmware releases while preserving the legacy Grbl version metadata and BG welcome-message suffix.
